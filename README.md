@@ -4,37 +4,37 @@ Remove the memory card before pressing start on the title screen. Timing starts 
 ## Prologue
 Move around the railing into the Lord Crump cutscene
 
-**Lord Crump**
-● Mario: Jump x2
-● Superguard
-● Mario: Jump x2
-● Note: It's always faster to fail the action command for the 2nd Jump.
- 
-Goombella joins your party
-Break Contact Lens
+**Lord Crump**  
+● Mario: Jump x2  
+● Superguard  
+● Mario: Jump x2  
+● Note: It's always faster to fail the action command for the 2nd Jump.  
+   
+Goombella joins your party  
+Break Contact Lens  
+  
+**Toad Bros. Bazaar**  
+● Order Contact Lens  
+● Buy 3 Fire Flowers  
+● Buy 5 Fright Masks  
+  
+Hit the Save Block (If you don't, Goombella will explain saving to you. If you never save it is faster to have Goombella explain it)  
+Robbed by Bandit (Don't chase him to get the coins back, you make it up later)  
+Meet Frankly  
 
-**Toad Bros. Bazaar**
-● Order Contact Lens
-● Buy 3 Fire Flowers
-● Buy 5 Fright Masks
-
-Hit the Save Block (If you don't, Goombella will explain saving to you. If you never save it is faster to have Goombella explain it)
-Robbed by Bandit (Don't chase him to get the coins back, you make it up later)
-Meet Frankly
-
-**Rogueport Sewers**
-**Goomba Trio**
-● Mario: Fright Mask
+**Rogueport Sewers**  
+**Goomba Trio**  
+● Mario: Fright Mask  
  
-Get **Pretty Lucky** from invisible block
-Get Black Key and Plane Curse
-Go to the Thousand-Year Door
- 
-**Rogueport**
-● Equip Power Smash (before you go down the pipe)
- 
-**Rogueport Sewers**
-**Blooper Battle**
+Get **Pretty Lucky** from invisible block  
+Get Black Key and Plane Curse  
+Go to the Thousand-Year Door  
+   
+**Rogueport**  
+● Equip Power Smash (before you go down the pipe)  
+   
+**Rogueport Sewers**  
+**Blooper Battle**  
 ● Goombella: Fire Flower
 ● Mario: Full Power Smash
 ● Goombella: Headbonk x2
