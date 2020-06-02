@@ -1,5 +1,5 @@
 Timing starts when you accept the file name  
-[section=Prologue]  
+# Prologue  
 **Lord Crump**  
 ● Mario: Jump x2  
 ● Superguard  
@@ -39,7 +39,7 @@ Go all the way right and encounter the Blooper
 ● Mario: Full Power Smash (fail the action command if Blooper gets hit by a stage prop)  
   
 Go to Petal Meadows    
-[section=Petal Meadows]  
+# Petal Meadows  
 Collect **Close Call** on the 2nd screen  
 Go to Petalburg  
   
@@ -86,7 +86,7 @@ Go back to Petalburg
 Koops joins your party  
 If you used a Fire Flower on Gold Fuzzy, get the **Fire Flower** from the block  
 Go to Hooktail Castle  
-[section=Hooktail Castle]  
+# Hooktail Castle  
 Get **Power Bounce** in the first hall from the block  
 Koops’ Dad letter (don’t read)  
   
@@ -134,7 +134,7 @@ Get the last **Castle Key** and go through the big locked door
 ● Mario: Power Bounce x8  
 ● Koops: Shell Toss  
   
-[section=Pre-Chapter 2]  
+# Pre-Chapter 2  
 Peach segment  
 Enter the shower area and leave immediately to cause the door to open  
 Visit TEC  
@@ -144,7 +144,7 @@ Walk to the end of the hall
   
 Go back to the Thousand-Year Door  
 Go to Boggly Woods  
-[section=Boggly Woods]  
+# Boggly Woods  
 Go right for the Shadow Sirens cutscene  
 Go to the Great Tree  
 Get **FP Plus** by the running water to the right of the tree while Punio is running to the root  
@@ -171,7 +171,7 @@ Go back to Flurrie’s house
 Flurrie joins your party  
 Go back to Great Tree (e-mail on the screen with the Great Tree)  
 Blow away secret entrance and enter the Great Tree  
-[section=The Great Tree]  
+# The Great Tree  
 **X-Nauts**  
 ● Mario: Fright Mask  
   
@@ -234,7 +234,7 @@ Go up to the entrance of the tree
 ● Magnus creates fists  
 ● Mario: Power Bounce x6  
 ● Koops: Shell Toss (if you didn't get a 7 bounce)  
-[section=Pre-Chapter 3]  
+# Pre-Chapter 3  
 Peach segment  
 Visit TEC for dancing (just wait at the door until it opens)  
   
@@ -285,7 +285,7 @@ Give Lumpy 300 coins
 Go back to Don Pianta and get the Blimp Ticket  
 Go to Glitzville (e-mail on way to the blimp)  
   
-[section=Glitzville]  
+# Glitzville  
 Go inside the lower lobby doors  
 Head to Grubba's office and sign up to be a fighter  
   
@@ -458,7 +458,7 @@ If you only have 3FP:
 ● Mario: Jump x2  
 Level up BP=9  
   
-[section=Pre-Chapter 4]  
+# Pre-Chapter 4  
 Peach segment  
 ● Visit TEC  
 ● Ride the elevator up  
@@ -475,7 +475,7 @@ Go to the Thousand-Year Door
   
 Talk to Darkly (e-mail leaving Frankly's house)  
 Go to Twilight Town  
-[section=Twilight Town & Creepy Steeple]  
+# Twilight Town & Creepy Steeple  
 Go talk to the gatekeeper  
 Talk to the shop manager’s wife  
 See the mayor turned into a pig  
@@ -543,7 +543,7 @@ Make your way back to the top of the steeple
 ● Mario: Power Bounce x7  
   
 Vivian really joins your party  
-[section=Pre-Chapter 5]  
+# Pre-Chapter 5  
 Peach segment  
 ● TEC Quiz (2, 1, 3, 2, 3)  
   
@@ -562,7 +562,7 @@ Break into Bobbery’s house via the chimney
 Talk to Podley at the pub to get the **Old Letter**  
 Give Bobbery the Old Letter  
 Go to Keelhaul Key by boat (e-mail in Rogueport square)  
-[section=Keelhaul Key]  
+# Keelhaul Key  
 Go right and fight the Embers  
   
 **Embers**  
@@ -589,7 +589,7 @@ Go back to Flavio and lead him to the entrance of Pirate's Grotto
 Inspect the wall and talk to Flavio for the **Skull Gem**  
 Hammer the tall statue 4 times and Spin Jump on the small statue 3 times  
 Toss Bobbery into the hole that opens (you can cutscene walk into the grotto to skip a cutscene)  
-[section=Pirate's Grotto]  
+# Pirate's Grotto  
 **Gate Handle** Early (optional)  
 Use Yoshi to cross the floor spikes  
 Use Yoshi to hover past the Bullet Bill Blaster  
@@ -643,7 +643,7 @@ Watch the cutscene of Crump's ship, then return to talk to Cortez
 ● Yoshi: Boo's Sheet on Mario  
 ● Mario: Power Bounce x4  
   
-[section=Pre-Chapter 6]  
+# Pre-Chapter 6  
 Peach segment  
 ● Go up to the potion room  
 ● Place the potions in the order: **Red - Blue - Yellow - Green**  
@@ -662,7 +662,7 @@ Take the boat to Keelhaul and go get the **Wedding Ring** (back where you got Bo
 Take it back to Frankie and Francesca (make sure you talk to them until they leave)  
 Go back to Don Pianta and get the **Train Ticket**  
 Board the Excess Express  
-[section=Excess Express]  
+# Excess Express  
 **Sales Stall**  
 ● Buy 3 Boo's Sheets   
   
@@ -745,7 +745,7 @@ Spring Jump up on the poles to reveal the pipe (You can skip one of these poles 
 Grab the Garnet Star  
 Leave Poshley Sanctum  
   
-[section=Pre-Chapter 7]  
+# Pre-Chapter 7  
 Peach segment  
 ● Visit TEC  
   
@@ -775,7 +775,7 @@ During paper mode
 ● Multibounce if it's not on already  
   
 Go to Fahr Outpost  
-[section=Fahr Outpost]  
+# Fahr Outpost  
 Go all the way right  
 Speak to the mayor near the cannon with Bobbery out  
 Go back to Rogueport sewers  
@@ -795,7 +795,7 @@ Go to the moon
   
 Go 3 screens to the right and blow up the rock to reveal the pipe  
 Enter the X-Naut Fortress  
-[section=X-Naut Fortress]  
+# X-Naut Fortress  
 **Elite X-Nauts**  
 ● Mario: Multibounce  
   
@@ -823,7 +823,7 @@ Use the Card Key to enter the final room
   
 **Magnus Von Grapple 2.0**  
 ● Mario: Power Bounce x5  
-[section=Pre-Chapter 8]  
+# Pre-Chapter 8  
 Bowser segment  
 ● Go into Poshley Sanctum  
   
@@ -831,7 +831,7 @@ Take the elevator to Sublevel 4 and talk to TEC
 Take the elevator to Sublevel 2 and go two rooms to the left  
 Leave the X-Naut Fortress via teleport  
 Open the Thousand-Year Door  
-[section=Palace of Shadow]  
+# Palace of Shadow  
 Run past the Swoopulas on the first staircase  
 Get the **Shooting Star**  
 Avoid the Bombshell Bills by running between them with Yoshi or using Vivian for safety  
@@ -905,7 +905,7 @@ Hit the red “!” switch and use Yoshi to get to the **Palace Key**
   
 Fall down and use the spring to get back up to the plane panel (you can get a Life Shroom to the right with a Yoshi hover)  
 Fly across the room and unlock the door  
-[section=Grodus, Bowser, and Shadow Queen]  
+# Grodus, Bowser, and Shadow Queen  
 **Grodus**  
 ● Yoshi: Shooting Star  
 ● Mario: Power Bounce x4  
