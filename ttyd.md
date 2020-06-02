@@ -290,7 +290,17 @@ Go inside the lower lobby doors
 Head to Grubba's office and sign up to be a fighter  
   
 *You only have one extra Fright Mask. Do not waste your extra unless it is absolutely necessary. You need 1 star point from these battles to not be over-leveled, but it is okay to normally kill 2-3 enemies. You may need to read ahead in the route to figure out level-ups if you're over-leveled.*  
-  
+
+● Jumping while waiting for the Guards delays him from entering the room. Try to avoid doing any actions during this time aside from equipping badges/changing partners.  
+● The fastest way to end a non-attack turn is to swap partners.  
+● The fastest way to fulfill "use at least one Special Move" is to fail an Earth Tremor. If you do this, it may be a good idea to appeal on turns where you can't attack, or to use stylish moves to refill your Star Power in case this condition comes up again.  
+● Jumping on spiky enemies DOES count towards "take damage at least 5 times." Swapping to Goombella might be a good idea before these fights.  
+● Superguarding DOES NOT count as an attack in the event of "don't attack for the first three turns."  
+● If you get "don't attack for the first three turns" on any fight, running away DOES NOT fail the condition.  
+● If you're overleveled already and you get "don't use items" on a fight where you'd normally use a Fright Mask, you can run from the fight and get a new condition. This wastes about a minute, so it's not recommended unless necessary.  
+● If you're ever running from a fight for a different reason, make sure that you fulfill the condition BEFORE running away, or else you will drop a rank and need to refight your last opponents.  
+● It's not too common, but the fight order can vary.  
+   
 Sleep in the bed whenever needed to recover HP and FP  
   
 **Rank 19: Goomba Bros.**  
